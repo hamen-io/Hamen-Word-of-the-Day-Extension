@@ -1,0 +1,24 @@
+[
+    {
+        "opprobrium": {
+            "word": "opprobrium",
+            "pos": "noun",
+            "definition": "disgrace arising from exceedingly shameful conduct; ignominy.",
+            "example": "Collaborators with the enemy did not escape the opprobrium of the townspeople",
+            "ipa": "əˈpɹəʊ.bɹɪ.əm",
+            "etymology": "Learned borrowing from Latin opprobrium, obprobrium (“a reproach, a taunt; disgrace, shame; dishonour; scandal”, noun), from opprobrō, obprobrō (“to reproach, upbraid; to taunt”) + -ium (suffix forming abstract nouns).[1] Opprobrō, obprobrō are derived from ob- (prefix meaning ‘against’) + probrum (“disgrace, shame; abuse, insult”, noun) (ultimately from Proto-Indo-European *pro- (“forward; toward”) + *bʰer- (“to bear, carry”), in the sense of something brought up to reproach a person).",
+            "synonyms": ["scandal", "disgrace", "reflection", "stain", "dishonor", "reproach", "stigma", "slur", "taint", "blot", "brand" ,
+            "smirch"],
+            "antonyms": ["credit", "honor", "glory", "pride", "treasure", "jewel", "boast"],
+            "translations": {
+                "deutsch": "schande",
+                "espanol": "oprobio",
+                "francais": "opprobre",
+                "latin": "opprobrium",
+                "nederlands": "smaad",
+                "italiano": "disprezzo"
+            },
+            "first-known-use": "The word \"opprobrium\" can be traced back to 1647... provide more info"
+        }
+    }
+]
